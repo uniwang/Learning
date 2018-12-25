@@ -1,3 +1,7 @@
+# *-* encoding=utf-8 *-*
+# reference: https://selenium-python-zh.readthedocs.io/en/latest/getting-started.html
+
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import unittest
